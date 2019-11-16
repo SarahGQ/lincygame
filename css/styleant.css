@@ -1,0 +1,30 @@
+html, body{ height: 100%;}
+body {
+    padding-top: 70px;
+}
+.container { height: 100%;width:100%;}
+.inner { height: 100%;width:100%;}
+
+.red {
+    color:red;
+}
+table{
+    empty-cells: show;
+    border-spacing: 0px;
+    border-collapse: separate;
+}
+td { 
+    padding: 0px;
+    text-align: center;
+}
+.padding {
+    padding-top: 15px;
+}
+.display-box{
+    border-style: solid;
+}
+.player-box {
+    background-color:#101010; 
+border-style: solid;
+    border-top: none;
+}
